@@ -15,3 +15,11 @@ Viruscop is a simple and effective antivirus software developed in Python using 
 
 - Python 3.8
 - PyQt5
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/viruscop.git
+cd viruscop****
