@@ -29,3 +29,6 @@ git clone https://github.com/Vaibhav-2401/viruscop.git
 cd viruscop
 python VirusCop.py
 
+
+#Reference - https://github.com/Len-Stevens/
+
