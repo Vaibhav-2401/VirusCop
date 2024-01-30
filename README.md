@@ -20,7 +20,7 @@ The software provides a configuration file (config.ini) where users can customiz
 - Python 3.8
 - PyQt5
 
-# Reference - https://github.com/Len-Stevens/
+## Reference - https://github.com/Len-Stevens/
 
 ### Installation
 
